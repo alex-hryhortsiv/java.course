@@ -3,4 +3,6 @@ void main(){
            Hello may name Alex me 19 year """);
 
     System.out.println("Good bay");
+
+    System.out.println();
 }
